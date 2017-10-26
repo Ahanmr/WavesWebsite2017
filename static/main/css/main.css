@@ -76,6 +76,13 @@ h4 {
 	margin:1em 0;
 }
 
+/*new changes*/
+
+.main-logo{
+	 width: 500px; margin-left: 0px;
+}
+/*new changes end*/
+
 #progress {
 	height:2%;
 	background:#444;
@@ -140,7 +147,6 @@ h4 {
 .nav-bar{
 	position: fixed; top: 0; z-index: 1000; width: 100%; height: 10%;
 	text-align: center;
-	
 }
 
 a{
@@ -346,6 +352,7 @@ svg text {
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
+
 .
 /*.mob_menu_item{
 	display: block;
@@ -394,5 +401,8 @@ svg text {
 #logo{
 		width: 30%;
 	}
+.main-logo{
+	width: 300px;
+}
   
 }
